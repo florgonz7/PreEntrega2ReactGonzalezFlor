@@ -1,0 +1,25 @@
+.containerCounter {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: white;
+    border-radius: .5rem;
+    border: solid 1px #ccc;
+    padding: 1rem;
+}
+
+.button {
+    padding: 3px;
+    border-style: none;
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+
+}
+
+.button:hover {
+
+    background-color: #ccc;
+    
+
+}
